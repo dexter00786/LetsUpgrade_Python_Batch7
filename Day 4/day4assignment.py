@@ -18,5 +18,5 @@ for i in range(lower, upper+1):
 		temp//= 10
 
 	if sum == i:
-		print(i,"is the first armstrong number between 104200 and 702648265")
+		print(i,"is the first armstrong number between 1042000 and 702648265")
 		break
